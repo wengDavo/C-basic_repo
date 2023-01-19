@@ -6,7 +6,7 @@ int test(int a, int b);
 int main()
 {
 	printf("\n--------------------------------------------");
-	printf("\n\tVOTING MANAGEMENT SYSTEM\n\tby weng");
+	printf("\n\tSimple Gpa Calculator\n\tby weng");
 	printf("\n--------------------------------------------\n");
 	printf("\n--------------------------------------------");
     int number, score;
